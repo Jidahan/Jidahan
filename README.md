@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jidahan
-- 👀 I’m interested in React WeChat APP 
+- 👀 I’m interested in React WeChat APP ReactNative
 - 🌱 I’m currently learning Node koa egg
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
